@@ -1,0 +1,19 @@
+body {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: #000c58;
+   display: flex;
+   height: 100%;
+   margin-top: 120px;
+   
+}
+
+h1 {
+   color: #b7d6ff;
+   font-size: 48px;
+}
+
+canvas {
+   background-color: #000000;
+}
